@@ -1,0 +1,20 @@
+{
+  "name": "node-js-tutorial",
+  "version": "1.0.0",
+  "description": "A basic App for deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongoDB"
+  ],
+  "author": "Bhavesh Sonawane",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
